@@ -67,6 +67,8 @@ Floor area($m^2$)
 | ours | 23.6            | 3.96  | 1.47             |
 | net  | 19.9            | 3.37  | 1.78             |
 
+<img src="demo/Mask.jpg" style="zoom:50%;" />
+
 ## Using the code
 
 To use our code, please first clone this repository and install the `cv2`, `numpy`, `matplotlib` package.
